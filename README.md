@@ -8,4 +8,4 @@
 [Image](/mm/data_engineering_map.png)
 
 ### 링크
-- 마음가짐 [a relative link](/mindset/index.md)
+- [마음가짐](/mindset/index.md)
