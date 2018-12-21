@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://devyohan.github.io/data_engineering/sitemap.xml
