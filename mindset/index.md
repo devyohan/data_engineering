@@ -28,4 +28,5 @@
 ## 참고한 내용들
 - 완벽한 건 없다 - 포프TV
   - https://www.youtube.com/watch?v=EM0n5S5A0Hk
-- 
+- 웹 서버 세팅 관리 - 포프TV
+  - https://www.youtube.com/watch?v=tZ397l4LVXw
