@@ -9,3 +9,5 @@
 
 ### 링크
 - [마음가짐](/mindset/index.md)
+- [말뭉치](/nlp/corpus.md)
+- [언어(bash)](/languages/bash.md)
